@@ -1,2 +1,2 @@
 # CRUD_Laravel_system
-a simple CRUD application buitl with Laravel PHP framework
+a simple CRUD application buitl with Laravel PHP framework, its a basic application that creates , read,update and delete users,.. its built with laravel and bootstrap and HTML and few inline customised CSS.
